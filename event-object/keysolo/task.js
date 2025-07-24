@@ -114,3 +114,5 @@ class Game {
 }
 
 new Game(document.getElementById('game'));
+
+//гит не тупи
